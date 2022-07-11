@@ -16,6 +16,35 @@ local html="<!DOCTYPE html>
 <meta charset=\"utf-8\">
 <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
 <title>${title}</title>
+<style type=\"text/css\">
+body {
+  margin:40px auto;
+  max-width:650px;
+  line-height:1.6;
+  font-size:16px;
+  padding:0 10px;
+  font-family: monospace;
+  background: #f6f5f4;
+  color: #575b5d;
+}
+
+header {
+  padding-bottom: 15px;
+}
+
+footer {
+  padding-top: 15px;
+}
+
+h1,h2,h3 {
+  font-size: 22px;
+}
+
+a:link,a:visited,a:hover,a:active {
+  text-decoration: none;
+  color: #3584e4;
+}
+</style>
 </head>
 <body>
 <header>
