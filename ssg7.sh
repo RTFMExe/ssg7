@@ -1,9 +1,15 @@
 #/usr/bin/env bash
 
+# general
 sitename="sitename"
 baseurl="https://example.org/"
 lang="en"
 copyright="2022 © xxxx"
+
+# color customization
+link_color='#3584e4'
+text_color='#575b5d'
+background_color='#f6f5f4'
 
 render_html(){
 local title=$1
@@ -23,8 +29,8 @@ body {
   font-size:16px;
   padding:0 10px;
   font-family: monospace;
-  background: #f6f5f4;
-  color: #575b5d;
+  background: $background_color;
+  color: $text_color;
 }
 
 header {
@@ -49,7 +55,7 @@ h3 {
 
 a:link,a:visited,a:hover,a:active {
   text-decoration: none;
-  color: #3584e4;
+  color: $link_color;
 }
 </style>
 </head>
