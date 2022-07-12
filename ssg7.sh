@@ -1,8 +1,7 @@
 #/usr/bin/env bash
 
-sitename="rtfmexe"
-description="Short description"
-baseurl="http://localhost:8000"
+sitename="sitename"
+baseurl="https://example.org/"
 lang="en"
 copyright="2022 © xxxx"
 
