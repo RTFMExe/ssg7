@@ -35,6 +35,10 @@ footer {
   padding-top: 15px;
 }
 
+h1 {
+  font-size: 22px;
+}
+
 h2 {
   font-size: 21px;
 }
