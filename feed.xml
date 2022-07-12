@@ -2,78 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>rtfmexe</title>
-  <link>http://localhost:8000</link>
+  <link>https://rtfmexe.github.io/ssg7</link>
   <description>Short description</description>
-  <atom:link href="http://localhost:8000feed.xml" rel="self" type="application/rss+xml" />
-  
-  <item>
-  <title>Lorem ipsum 10</title>
-  <pubDate>Sun, 10 Jul 2022 00:00:00 -0300</pubDate>
-  <link>http://localhost:8000/posts/lorem-ipsum-10.html</link>
-  <guid>http://localhost:8000/posts/lorem-ipsum-10.html</guid>
-  </item>
-  
-  <item>
-  <title>Lorem ipsum 9</title>
-  <pubDate>Sat, 09 Jul 2022 00:00:00 -0300</pubDate>
-  <link>http://localhost:8000/posts/lorem-ipsum-9.html</link>
-  <guid>http://localhost:8000/posts/lorem-ipsum-9.html</guid>
-  </item>
+  <atom:link href="https://rtfmexe.github.io/ssg7feed.xml" rel="self" type="application/rss+xml" />
   
   <item>
   <title>Lorem ipsum 8</title>
   <pubDate>Fri, 08 Jul 2022 00:00:00 -0300</pubDate>
-  <link>http://localhost:8000/posts/lorem-ipsum-8.html</link>
-  <guid>http://localhost:8000/posts/lorem-ipsum-8.html</guid>
+  <link>https://rtfmexe.github.io/ssg7/posts/lorem-ipsum-8.html</link>
+  <guid>https://rtfmexe.github.io/ssg7/posts/lorem-ipsum-8.html</guid>
   </item>
   
   <item>
   <title>Lorem ipsum 7</title>
   <pubDate>Thu, 07 Jul 2022 00:00:00 -0300</pubDate>
-  <link>http://localhost:8000/posts/lorem-ipsum-7.html</link>
-  <guid>http://localhost:8000/posts/lorem-ipsum-7.html</guid>
+  <link>https://rtfmexe.github.io/ssg7/posts/lorem-ipsum-7.html</link>
+  <guid>https://rtfmexe.github.io/ssg7/posts/lorem-ipsum-7.html</guid>
   </item>
   
   <item>
   <title>Lorem ipsum 6</title>
   <pubDate>Wed, 06 Jul 2022 00:00:00 -0300</pubDate>
-  <link>http://localhost:8000/posts/lorem-ipsum-6.html</link>
-  <guid>http://localhost:8000/posts/lorem-ipsum-6.html</guid>
+  <link>https://rtfmexe.github.io/ssg7/posts/lorem-ipsum-6.html</link>
+  <guid>https://rtfmexe.github.io/ssg7/posts/lorem-ipsum-6.html</guid>
   </item>
   
   <item>
   <title>Lorem ipsum 5</title>
   <pubDate>Tue, 05 Jul 2022 00:00:00 -0300</pubDate>
-  <link>http://localhost:8000/posts/lorem-ipsum-5.html</link>
-  <guid>http://localhost:8000/posts/lorem-ipsum-5.html</guid>
+  <link>https://rtfmexe.github.io/ssg7/posts/lorem-ipsum-5.html</link>
+  <guid>https://rtfmexe.github.io/ssg7/posts/lorem-ipsum-5.html</guid>
   </item>
   
   <item>
   <title>Lorem ipsum 4</title>
   <pubDate>Mon, 04 Jul 2022 00:00:00 -0300</pubDate>
-  <link>http://localhost:8000/posts/lorem-ipsum-4.html</link>
-  <guid>http://localhost:8000/posts/lorem-ipsum-4.html</guid>
+  <link>https://rtfmexe.github.io/ssg7/posts/lorem-ipsum-4.html</link>
+  <guid>https://rtfmexe.github.io/ssg7/posts/lorem-ipsum-4.html</guid>
   </item>
   
   <item>
   <title>Lorem ipsum 3</title>
   <pubDate>Sun, 03 Jul 2022 00:00:00 -0300</pubDate>
-  <link>http://localhost:8000/posts/lorem-ipsum-3.html</link>
-  <guid>http://localhost:8000/posts/lorem-ipsum-3.html</guid>
+  <link>https://rtfmexe.github.io/ssg7/posts/lorem-ipsum-3.html</link>
+  <guid>https://rtfmexe.github.io/ssg7/posts/lorem-ipsum-3.html</guid>
   </item>
   
   <item>
   <title>Lorem ipsum 2</title>
   <pubDate>Sat, 02 Jul 2022 00:00:00 -0300</pubDate>
-  <link>http://localhost:8000/posts/lorem-ipsum-2.html</link>
-  <guid>http://localhost:8000/posts/lorem-ipsum-2.html</guid>
+  <link>https://rtfmexe.github.io/ssg7/posts/lorem-ipsum-2.html</link>
+  <guid>https://rtfmexe.github.io/ssg7/posts/lorem-ipsum-2.html</guid>
   </item>
   
   <item>
   <title>Lorem ipsum 1</title>
   <pubDate>Fri, 01 Jul 2022 00:00:00 -0300</pubDate>
-  <link>http://localhost:8000/posts/lorem-ipsum-1.html</link>
-  <guid>http://localhost:8000/posts/lorem-ipsum-1.html</guid>
+  <link>https://rtfmexe.github.io/ssg7/posts/lorem-ipsum-1.html</link>
+  <guid>https://rtfmexe.github.io/ssg7/posts/lorem-ipsum-1.html</guid>
   </item>
   
 </channel>
