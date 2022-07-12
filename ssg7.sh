@@ -36,8 +36,12 @@ footer {
   padding-top: 15px;
 }
 
-h1,h2,h3 {
-  font-size: 22px;
+h2 {
+  font-size: 21px;
+}
+
+h3 {
+  font-size: 20px;
 }
 
 a:link,a:visited,a:hover,a:active {
